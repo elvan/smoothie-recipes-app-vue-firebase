@@ -1,4 +1,4 @@
-# smoothie-recipe-app-vue-firebase
+# smoothie-recipes-app-vue-firebase
 
 > A Vue.js project
 
