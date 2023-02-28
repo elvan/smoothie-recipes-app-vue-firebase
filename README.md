@@ -1,4 +1,15 @@
-# smoothie-recipes-app-vue-firebase
+# SmoothieRecipes
+
+## Screenshots
+
+### Homepage Smoothie List
+![Homepage Smoothie List](https://raw.githubusercontent.com/elvan/smoothie-recipes-app-vue-firebase/main/screenshots/Screenshot%202023-02-28%20073007.png)
+
+### Add New Smoothie Form
+![Add New Smoothie Form](https://raw.githubusercontent.com/elvan/smoothie-recipes-app-vue-firebase/main/screenshots/Screenshot%202023-02-28%20073056.png)
+
+### Edit Smoothie Form
+![Edit Smoothie Form](https://raw.githubusercontent.com/elvan/smoothie-recipes-app-vue-firebase/main/screenshots/Screenshot%202023-02-28%20073040.png)
 
 > A Vue.js project
 
